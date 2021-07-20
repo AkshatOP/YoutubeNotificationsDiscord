@@ -2,9 +2,9 @@
 
 # Discord Youtube Notifier
 
-[![CodeFactor](https://www.codefactor.io/repository/github/androz2091/discordyoutubenotifier/badge)](https://www.codefactor.io/repository/github/androz2091/discordyoutubenotifier)
-[![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA)](https://discord.atlanta-bot.fr)
-[![](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/androz2091)
+<!--[![CodeFactor](https://www.codefactor.io/repository/github/androz2091/discordyoutubenotifier/badge)](https://www.codefactor.io/repository/github/androz2091/discordyoutubenotifier)
+[![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA)](https://discord.atlanta-bot.fr)-->
+
 
 > This bot is not available for invite.
 
